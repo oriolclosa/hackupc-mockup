@@ -7,4 +7,4 @@
 HackUPC's hoodies mockup generator.
 <br>
 
-![Hoodies mockup generator](https://raw.githubusercontent.com/oriol20/hackupc-mockup/master/demo.png)
+![Hoodies mockup generator](https://raw.githubusercontent.com/oriolclosa/hackupc-mockup/master/demo.png)
